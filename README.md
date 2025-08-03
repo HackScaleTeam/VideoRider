@@ -1,9 +1,9 @@
-**📌 Video Rider v1**
+** Video Rider v1**
 *A Python script to download videos and audio from various websites with quality selection and file size preview.*
 
 ---
 
-## 🚀 Features
+##  Features
 ✔ Download **videos** in various quality options  
 ✔ Extract **audio (MP3)** with high-quality conversion  
 ✔ **Preview file size** before downloading  
@@ -26,7 +26,7 @@
 
 ---
 
-## 📥 Usage
+##  Usage
 1. Run the script:
    ```sh
    python video_rider.py
